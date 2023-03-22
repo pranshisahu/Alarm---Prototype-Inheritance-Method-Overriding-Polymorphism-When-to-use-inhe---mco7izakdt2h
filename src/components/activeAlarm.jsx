@@ -1,14 +1,3 @@
-/*import * as React from 'react';
-
-export default function ActiveAlarm(props) {
-
-  return (
-    <div>
-    </div>
-  );
-}
-*/
-
 import * as React from 'react';
 import Button from '@mui/material/Button';
 import Dialog from '@mui/material/Dialog';
